@@ -2,7 +2,6 @@
 
 First of all, I would like to express my highest respect to Dr.Juergen Rilling for his generous help to us.<br />
 And I want to give my highest gratefulness to all of my teammates who made this project perfect.<br />
-Both of our documentation and presentation ranked #2 among 10 competitive teams!<br />
 
 SOEN 6461 <br />
 Contributed by Kaichen Zhang, Hanbing Zuo, Deepakkumar Subramaniam, Manjinder Kaur, Hassan Khalid and Tapsvini Shingala<br />
